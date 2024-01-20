@@ -39,7 +39,7 @@ TrollLEDs | A TrollStore Application to control individual flashlight LEDs for i
     StatusMagic | StatusMagic is a customization tool for the Status Bar of your iPhone or iPad.
 - https://github.com/Avangelista/StatusMagic
 
-    CocoaTop |A iOS Process viewer/manager view different informations about current running processes or let specific processes stop running.
+    CocoaTop | A iOS Process viewer/manager view different informations about current running processes or let specific processes stop running.
 - Use this one for TrollStore: https://cdn.discordapp.com/attachments/1186448272697598072/1186838468337340467/CocoTopTS_Fixed.tipa?ex=65b063f5&is=659deef5&hm=60c2d1809607d4c78507a8970a08a0c1658db3d86927572c93a386ca8e9ba397&
 - https://github.com/D0m0/CocoaTop
 
@@ -111,7 +111,17 @@ TrollLEDs | A TrollStore Application to control individual flashlight LEDs for i
     NiceBattery | View different informations about your device.
 - https://www.niceios.com/trollapps/NiceBattery.ipa
 
-    RadioCarPlay | Example radio streaming CarPlay iOS App
+    RadioCarPlay | Example radio streaming CarPlay iOS App.
 - https://github.com/danielyc/RadioCarPlay
 
+    BundleIDFetcher4iOS | Fetch the BundleID of a App.
+- https://github.com/mass1ve-err0r/BundleIDFetcher4iOS
 
+    WallpaperSetter | iOS application for setting separate light and dark mode wallpapers.
+- https://github.com/Skittyblock/WallpaperSetter
+
+    AppStore++ | AppStore++ tweak for TrollStore. (DowngradeApp is better, I've also listed it here in this repository)
+- https://github.com/CokePokes/AppStorePlus-TrollStore
+
+    Mugunghwa | iOS customisation tools for non-jailbroken devices. Requires sandbox escape.
+- https://github.com/s8ngyu/Mugunghwa
