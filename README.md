@@ -1,5 +1,6 @@
 # TrollStore-Apps
-    TrollLEDs | A TrollStore Application to control individual flashlight LEDs for iOS Devices.
+    (If you want to add a TrollStore App, open a new issue or contact me on Discord: c4ndyf1sh)
+TrollLEDs | A TrollStore Application to control individual flashlight LEDs for iOS Devices.
 - https://github.com/PoomSmart/TrollLEDs
 
     TrollCuts | Arbitrary entitled extensions for Shortcuts.
