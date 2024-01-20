@@ -87,3 +87,17 @@ TrollLEDs | A TrollStore Application to control individual flashlight LEDs for i
     Filza | The best File Manager for TrollStore Devices made by brand TIGI Software.
 - https://www.tigisoftware.com/default/?page_id=78
 
+    Resoultion-Setter-App | Set a custom resolution for your Device.
+- https://github.com/Halo-Michael/Resolution-Setter-app
+
+    MobileTSS | Save SHSH Blobs.
+- https://github.com/lucaIz-ldx/MobileTSS
+
+    Red Dot | Badge Color Changer.
+- https://github.com/s8ngyu/red-dot
+
+    Serial | Allows you to query the serial number of your device.
+- https://github.com/aydenp/Serial
+
+    TrollNonce | Nonce Setter.
+- https://github.com/opa334/TrollNonce
