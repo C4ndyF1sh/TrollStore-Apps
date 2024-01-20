@@ -1,14 +1,22 @@
 # TrollStore-Apps
     (If you want to add a TrollStore App, open a new issue or contact me on Discord: c4ndyf1sh)
-TrollLEDs | A TrollStore Application to control individual flashlight LEDs for iOS Devices.
+
+ #Flashlight
+    TrollLEDs | A TrollStore Application to control individual flashlight LEDs for iOS Devices.
 - https://github.com/PoomSmart/TrollLEDs
 
+ #Shortcuts
     TrollCuts | Arbitrary entitled extensions for Shortcuts.
 - https://github.com/udevsharold/TrollCuts
 
+ #Multi-Tool
     TrollTools | Revolutionizing iOS Devices using TrollStore.
 - https://github.com/sourcelocation/TrollTools
 
+  Geranium | Here is a tool to simulate fake locations, clean most type of caches on the device, manage Daemons, disable ScreenTime and supervise/unsupervise your device.
+- https://github.com/c22dev/Geranium
+
+ #Other
     DynamicCowTS | Enable the Dynamic Island on every device that doesn't have the Dynamic Island already pre-installed.
 - https://github.com/matteozappia/DynamicCowTS
 
@@ -42,9 +50,6 @@ TrollLEDs | A TrollStore Application to control individual flashlight LEDs for i
     CocoaTop | A iOS Process viewer/manager view different informations about current running processes or let specific processes stop running.
 - Use this one for TrollStore: https://cdn.discordapp.com/attachments/1186448272697598072/1186838468337340467/CocoTopTS_Fixed.tipa?ex=65b063f5&is=659deef5&hm=60c2d1809607d4c78507a8970a08a0c1658db3d86927572c93a386ca8e9ba397&
 - https://github.com/D0m0/CocoaTop
-
-    Geranium | Here is a tool to simulate fake locations, clean most type of caches on the device, manage Daemons, disable ScreenTime and supervise/unsupervise your device.
-- https://github.com/c22dev/Geranium
 
     Antoine | Allows you to view System Logs in real time, with the ability to filter logs by processes, message, type, etc, as well additional stream options.
 - https://github.com/NSAntoine/Antoine/
