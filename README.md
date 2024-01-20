@@ -101,3 +101,17 @@ TrollLEDs | A TrollStore Application to control individual flashlight LEDs for i
 
     TrollNonce | Nonce Setter.
 - https://github.com/opa334/TrollNonce
+
+    Jaility | Disable locking after resprings, and supervise your device in one click.
+- https://github.com/haxi0/Jaility
+
+    InstaSpring | iOS app that immediately resprings your Device after you open it.
+- https://github.com/haxi0/InstaSpring
+
+    NiceBattery | View different informations about your device.
+- https://www.niceios.com/trollapps/NiceBattery.ipa
+
+    RadioCarPlay | Example radio streaming CarPlay iOS App
+- https://github.com/danielyc/RadioCarPlay
+
+
