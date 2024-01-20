@@ -1,22 +1,22 @@
 # TrollStore-Apps
     (If you want to add a TrollStore App, open a new issue or contact me on Discord: c4ndyf1sh)
 
-#Flashlight
+Flashlight:
     TrollLEDs | A TrollStore Application to control individual flashlight LEDs for iOS Devices.
 - https://github.com/PoomSmart/TrollLEDs
 
-#Shortcuts
+Shortcuts:
     TrollCuts | Arbitrary entitled extensions for Shortcuts.
 - https://github.com/udevsharold/TrollCuts
 
-#Multi-Tool
+Multi-Tool:
     TrollTools | Revolutionizing iOS Devices using TrollStore.
 - https://github.com/sourcelocation/TrollTools
 
   Geranium | Here is a tool to simulate fake locations, clean most type of caches on the device, manage Daemons, disable ScreenTime and supervise/unsupervise your device.
 - https://github.com/c22dev/Geranium
 
-#Other
+Other:
     DynamicCowTS | Enable the Dynamic Island on every device that doesn't have the Dynamic Island already pre-installed.
 - https://github.com/matteozappia/DynamicCowTS
 
