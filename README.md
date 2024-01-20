@@ -7,7 +7,7 @@ TrollLEDs | A TrollStore Application to control individual flashlight LEDs for i
 - https://github.com/udevsharold/TrollCuts
 
     TrollTools | Revolutionizing iOS Devices using TrollStore.
-- https://github.com/udevsharold/TrollCuts
+- https://github.com/sourcelocation/TrollTools
 
     DynamicCowTS | Enable the Dynamic Island on every device that doesn't have the Dynamic Island already pre-installed.
 - https://github.com/matteozappia/DynamicCowTS
