@@ -11,8 +11,8 @@ TrollTools | Revolutionizing iOS Devices using TrollStore.
 DynamicCowTS | Enable the Dynamic Island on every device that doesn't have the Dynamic Island already pre-installed.
 - https://github.com/matteozappia/DynamicCowTS
 
-Cardio| App for changing Apple Pay images using the CoreTrust Bug that effects iOS 14.0 - 16.6.1/17.0
+Cardio | App for changing Apple Pay images using the CoreTrust Bug that effects iOS 14.0 - 16.6.1/17.0
 - https://github.com/cisc0disco/Cardio
 
 CopyLog TrollStore Edition | CopyLog is a powerful clipboard history manager for iOS, easy to use, works on both iPhone and iPad, it helps you to keep track of what you've copied on your device.
-- https://havoc.app/package/copylogts
+https://havoc.app/package/copylogts
