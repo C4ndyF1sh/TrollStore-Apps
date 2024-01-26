@@ -9,26 +9,32 @@ A TrollStore Application to control individual flashlight LEDs for iOS Devices.
 
 Shortcuts:
 
-    TrollCuts | Arbitrary entitled extensions for Shortcuts.
+- TrollCuts -
+Arbitrary entitled extensions for Shortcuts.
 - https://github.com/udevsharold/TrollCuts
 
 Multi-Tool:
 
-    TrollTools | Revolutionizing iOS Devices using TrollStore.
+- TrollTools -
+Revolutionizing iOS Devices using TrollStore.
 - https://github.com/sourcelocation/TrollTools
 
-      Geranium | Here is a tool to simulate fake locations, clean most type of caches on the device, manage Daemons, disable ScreenTime and supervise/unsupervise your device.
+- Geranium -
+Here is a tool to simulate fake locations, clean most type of caches on the device, manage Daemons, disable ScreenTime and supervise/unsupervise your device.
 - https://github.com/c22dev/Geranium
 
-        Mugunghwa | iOS customisation tools for non-jailbroken devices. Requires sandbox escape.
+- Mugunghwa -
+iOS customisation tools for non-jailbroken devices. Requires sandbox escape.
 - https://github.com/s8ngyu/Mugunghwa
 
-      Jaility | Disable locking after resprings, supervise your device in one click and toggle the mute switch in the control center.
+- Jaility -
+Disable locking after resprings, supervise your device in one click and toggle the mute switch in the control center.
 - https://github.com/haxi0/Jaility
 
 Status Bar:
 
-        SecondHand | SecondHand lets TrollStore users add hours, minutes and seconds to the Status Bar time and the date to the breadcrumb links.
+- SecondHand -
+SecondHand lets TrollStore users add hours, minutes and seconds to the Status Bar time and the date to the breadcrumb links.
 - https://github.com/leminlimez/SecondHand
 
         StatusMagic | StatusMagic is a customization tool for the Status Bar of your iPhone or iPad.
@@ -36,21 +42,26 @@ Status Bar:
 
 Overlay:
 
-    Helium | Helium introduces distinctive enhancements for TrollStore devices by seamlessly integrating widgets everywhere you want on the Screen across iOS 15.0 - 16.6.1/17.0
+- Helium - 
+Helium introduces distinctive enhancements for TrollStore devices by seamlessly integrating widgets everywhere you want on the Screen across iOS 15.0 - 16.6.1/17.0
 - https://github.com/leminlimez/Helium
 
-      CAPerfHUD | A HUD for viewing real-time Informations such as actual FPS, frame delay, enmitter and particle count, offscreen passes, frame duration and much more.
+- CAPerfHUD -
+A HUD for viewing real-time Informations such as actual FPS, frame delay, enmitter and particle count, offscreen passes, frame duration and much more.
 - https://github.com/khanhduytran0/CAPerfHUD
 
-      CAPerfHUDSwift | Basically CAPerfHUD, but written in 100% Swift.
+- CAPerfHUDSwift - 
+Basically CAPerfHUD, but written in 100% Swift.
 - https://github.com/BomberFish/CAPerfHUDSwift
 
-      TrollSpeed | Shows upload and download speed below the status bar. Requires Developer Mode, this can be activated with TrollStore itself if Developer Mode isnt enabled already.
+- TrollSpeed - 
+Shows upload and download speed below the status bar. Requires Developer Mode, this can be activated with TrollStore itself if Developer Mode isnt enabled already.
 - https://github.com/Lessica/TrollSpeed
 
 Converter:
 
-    DebToIPA | Convert .deb packages to .ipa files, this only works for applications, and not for tweaks.
+- DebToIPA - 
+Convert .deb packages to .ipa files, this only works for applications, and not for tweaks.
 - https://github.com/sourcelocation/DebToIPA
 
 App Manager:
