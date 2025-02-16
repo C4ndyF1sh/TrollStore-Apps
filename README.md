@@ -1,3 +1,5 @@
+More apps are in my discord server under #trollstore-apps (https://discord.gg/WFZZRGC9Ar)
+
 # TrollStore-Apps
     (If you want to add a TrollStore App, open a new issue or contact me on Discord: c4ndyf1sh)
 
